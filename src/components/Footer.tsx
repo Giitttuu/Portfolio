@@ -5,9 +5,13 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
   
   const socialLinks = [
-    { name: "GitHub", url: "#", icon: Github },
-    { name: "LinkedIn", url: "#", icon: Linkedin },
-    { name: "Email", url: "mailto:lokesh.singh@example.com", icon: Mail },
+    { name: "GitHub", url: "https://github.com/Giitttuu", icon: Github },
+    {
+      name: "LinkedIn",
+      url: "https://www.linkedin.com/in/lokesh23singh/",
+      icon: Linkedin,
+    },
+    { name: "Email", url: "mailto:ls.23singh@gmail.com", icon: Mail },
   ];
 
   return (
