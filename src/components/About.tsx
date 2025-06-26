@@ -33,7 +33,7 @@ const About = () => {
             <div className="glass-card p-8 rounded-2xl">
               <div className="w-48 h-48 mx-auto mb-6 rounded-full bg-gradient-to-br from-primary/20 to-primary/5 flex items-center justify-center">
                 <img
-                  src=".\public\Profile_Pic_Lokesh.jpg"
+                  src="./Profile_Pic_Lokesh.jpg"
                   alt="Lokesh Singh"
                   className="w-40 h-40 rounded-full object-cover"
                 />
